@@ -56,8 +56,7 @@ Technical documentation
     * CSS
     * Bootstrap
 * JavaScript
-    * React
-* ReactJS
+  * ReactJS
     * Redux
 * Wordpress Theme
 * Backend Development
