@@ -37,43 +37,44 @@ Upwork.com.
 
 
 ### Technical Skills
-    * Technical documentation
-        * Markdown
 
-    *Database
-     * Database Modeling
-     * Database Normalization
-     * MySQL
-     * MongoDB
-    
-    * Requirement Analysis
-     * Persona Development
-     * UI Prototyping
+Technical documentation
+ * Markdown
 
-    * Frontend Developement
-     * HTML
-     * CSS
-       * Bootstrap
-    * JavaScript
-      * React
-    * ReactJS
-      * Redux
-    * Wordpress Theme
-    * Backend Development
-      * NodeJS
-        * Express.js
-      * PHP
-        * Laravel
-        * Flat PHP
-        * Wordpress Plugin Development
-    * System Design
-     * UI Prototyping ( Figma )
-     * Persona Preparation
-     * API development , Testing( PostMan ) and integration
-    * Other
-     * C/C++
-     * Java
-     * Git
+*Database
+* Database Modeling
+* Database Normalization
+* MySQL
+* MongoDB
+
+* Requirement Analysis
+    * Persona Development
+    * UI Prototyping
+
+* Frontend Developement
+    * HTML
+    * CSS
+    * Bootstrap
+* JavaScript
+    * React
+* ReactJS
+    * Redux
+* Wordpress Theme
+* Backend Development
+    * NodeJS
+    * Express.js
+    * PHP
+    * Laravel
+    * Flat PHP
+    * Wordpress Plugin Development
+* System Design
+    * UI Prototyping ( Figma )
+    * Persona Preparation
+    * API development , Testing( PostMan ) and integration
+* Other
+    * C/C++
+    * Java
+    * Git
 
 
 
@@ -91,6 +92,7 @@ has been self educating on. A great long term and valuable asset for our
 part-time needs in a variety of areas. Provides great value. Excellent English
 skills. I highly recommend him.
 
+
 **Greg Viger , Vancouver BC**
 
 > Tinsae did a great job! i will love to work with him again.
@@ -107,19 +109,3 @@ recommend him to my friends.
 >Hard working guy and will get your work done. Thank you
 
 **Ankit Srivastava , Lucknow - India**
-
-
-
-
-**tinsaeDev/tinsaedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
