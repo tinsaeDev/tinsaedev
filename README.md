@@ -1,7 +1,7 @@
 ## Tinsae Belay 👋
 ### Software Engineer
 
-Welcome to my gihib profile page, My name is Tinsae Belay I'm a Software Engineering graduate of Bahir Dar University ( 2021 ). Through my journey I was able to learn
+Welcome to my gihub profile page, My name is Tinsae Belay I'm a Software Engineering graduate of Bahir Dar University ( 2021 ). Through my journey I was able to learn
 different set of skills,techniques,principles and methods  that help me understand users problem and design a solution that is reliable, robust, secure , resource efficient , compatible with other systems, maintainable and easy to use.
 
 
@@ -41,11 +41,11 @@ Upwork.com.
 Technical documentation
  * Markdown
 
-*Database
-* Database Modeling
-* Database Normalization
-* MySQL
-* MongoDB
+* Database
+   * Database Modeling
+   * Database Normalization
+   * MySQL
+   * MongoDB
 
 * Requirement Analysis
     * Persona Development
@@ -92,19 +92,19 @@ part-time needs in a variety of areas. Provides great value. Excellent English
 skills. I highly recommend him.
 
 
-**Greg Viger , Vancouver BC**
+***Greg Viger , Vancouver BC***
 
 > Tinsae did a great job! i will love to work with him again.
 
-**Tomer Z. Etz Efrayim , Israel**
+***Tomer Z. Etz Efrayim , Israel***
 
 >Tinsae has understood my issues and responded on time. I have gained a
 good friend and a reliable guy through this project. I would definitely
 recommend him to my friends.
 
-**Mavi Adem , Yegara Hosting , Ethiopia**
+***Mavi Adem , Yegara Hosting , Ethiopia***
 
 
 >Hard working guy and will get your work done. Thank you
 
-**Ankit Srivastava , Lucknow - India**
+***Ankit Srivastava , Lucknow - India***
