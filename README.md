@@ -39,7 +39,7 @@ Upwork.com.
 ### Technical Skills
 
 * Technical documentation
- * Markdown
+   * Markdown
 
 * Database
    * Database Modeling
