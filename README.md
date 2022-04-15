@@ -38,7 +38,7 @@ Upwork.com.
 
 ### Technical Skills
 
-Technical documentation
+* Technical documentation
  * Markdown
 
 * Database
